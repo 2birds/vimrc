@@ -9,3 +9,5 @@ call vundle#rc()
 Bundle 'gmarik/vundle'
 
 Bundle 'vim-scripts/javacomplete'
+
+filetype plugin indent on
