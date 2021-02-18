@@ -7,3 +7,5 @@ set autoindent
 filetype plugin indent on
 
 execute pathogen#infect()
+
+autocmd VimEnter * NERDTree
